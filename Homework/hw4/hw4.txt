@@ -1,0 +1,5 @@
+Proakis Manolakis
+3.2 (b & f), 3.4(d), 3.12,
+3.14(b), 3.16, 3.31
+C3.3 (use Matlab)
+C3.5 (use Matlab)
